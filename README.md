@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranav Kastury
-- 👀 I’m interested in Web2.0 and Web3.0 Development
-- 🌱 I’m currently learning JavaScript, ReactJS and Solidity
-- 💞️ I’m looking to collaborate on Frontend Development Projects
+- 👀 I am a self-taught frontend developer with 3 years of experience in designing and building websites and web applications.
+- 🌱 I am passionate about creating visually appealing and user-friendly interfaces.
+- 💞️ With strong problem-solving skills and attention to detail, I deliver high-quality work.
 - 📫 You can reach me at pranavkastury828@gmail.com
 
